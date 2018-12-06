@@ -1,0 +1,9 @@
+import:
+- package: github.com/tent/http-link-go
+  version: ac974c61c2f990f4115b119354b5e0b47550e888
+- package: github.com/google/go-querystring
+  subpackages:
+  - query
+  version: d8840cbb2baa915f4836edda4750050a2c0b7aea
+package: github.com/digitalocean/godo
+

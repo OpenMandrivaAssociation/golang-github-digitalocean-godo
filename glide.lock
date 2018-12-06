@@ -1,0 +1,10 @@
+hash: 6e35b536b2a71507dc141f78e53751aa9267b086e76cd4c0a6d33c7caebb618f
+imports:
+- name: github.com/tent/http-link-go
+  version: ac974c61c2f990f4115b119354b5e0b47550e888
+- name: github.com/google/go-querystring
+  subpackages:
+  - query
+  version: d8840cbb2baa915f4836edda4750050a2c0b7aea
+updated: '2018-06-09T17:22:48.681706+00:00'
+
